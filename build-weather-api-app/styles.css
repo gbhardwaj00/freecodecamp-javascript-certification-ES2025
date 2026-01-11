@@ -1,0 +1,81 @@
+/* styles.css (simple) */
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 0 16px;
+  }
+  
+  #city-select,
+  #get-weather-btn {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+  }
+  
+  #weather-data {
+    margin-top: 16px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  #weather-icon {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #main-temperature {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 6px 0 10px;
+  }
+  
+  #location {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  /* styles.css (simple) */
+  
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 0 16px;
+  }
+  
+  #city-select,
+  #get-weather-btn {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+  }
+  
+  #weather-data {
+    margin-top: 16px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  #weather-icon {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #main-temperature {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 6px 0 10px;
+  }
+  
+  #location {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
